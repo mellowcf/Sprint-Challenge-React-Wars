@@ -26,11 +26,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+
+
 - [ ] What does it mean to _think_ in react?
+
 
 - [ ] Describe state.
 
+
 - [ ] Describe props.
+
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
 
@@ -85,7 +90,7 @@ It is better to submit a challenge that meets [MVP](https://en.wikipedia.org/wik
   - `console.log()` the data coming back from the server.
   - Notice that there are `next` and `previous` fields that give you a URL.
   - You can build a function that will get characters called `getCharacters` that you can use dynamically to get the next or previous set of characters. You would need to supply it with the proper fields, and you'll need to set up more state to do this.
-- [ ] Add at least one test using a testing tool:
+  - [ ] Add at least one test using a testing tool:
   - [react-testing-library](https://github.com/testing-library/react-testing-library#basic-example)
   - [Cypress](https://docs.cypress.io/guides/overview/why-cypress.html)
 
